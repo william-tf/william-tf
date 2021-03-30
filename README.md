@@ -1,6 +1,6 @@
 ### Welcome to my profile :)
 
-Hello there! I'm William Fletcher, a React and Node developer who is trying to learn everything I can in order to make fully polished websites and webapps.  I am a fast learner who loves to work in collaboration with anyone who is willing! Passionate about creating efficient and user friendly experiences on the web.
+Hello there! I'm William Fletcher, a React and Node developer who is trying to learn everything I can in order to make fully polished websites and webapps.  I am a fast learner who loves to work in collaboration with anyone who is willing! Passionate about creating efficient and user friendly experiences on the web.  Outside of web development, I invest my time into exercising, daily beach walks, and slowly trying to teach myself piano.  
 
 ### Knowledable in:
 Javascript, React, Node.js, Express, HTML, CSS, and a little bit of python.
